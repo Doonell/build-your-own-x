@@ -464,7 +464,7 @@ It's a great way to learn.
 * [**Python**: _How to Build a No-Limits Stock Market Scraper with Python_](https://hackernoon.com/how-to-build-a-no-limits-stock-market-scraper-with-python)
 * [**Python**: _Building a simple stock data fetcher_](https://github.com/yashgr01/Python-stock-data-fetcher)
 * [**Python**: _A crawler to gather A-share (Chinese stock market) data_](https://gist.github.com/ZxYuan/6bb3689acde1f7852a3c)
-* [**Python**: _Building a Chinese stock market data crawler with AkShare_](https://github.com/akfamily/akshare)
+* [**Python**: _Building a Chinese stock market data crawler with AkShare_](https://akshare.akfamily.xyz/)
 * [**Python**: _Stock Market Predictions with LSTM in Python_](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 * [**Python**: _Building a simple Generative Adversarial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
 * [**Python**: _Learn ML Algorithms by coding: Decision Trees_](https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4)
